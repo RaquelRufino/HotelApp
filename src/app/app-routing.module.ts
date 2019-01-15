@@ -16,7 +16,7 @@ import { HomeComponent } from './home/home.component';
 const routes: Routes = [
   {path: 'accomodation', component: AccomodationComponent},
   {path: 'celebration', component: CelebrationComponent},
-  {path: 'food-beverage', component: FoodBeverageComponent},
+  {path: 'foodBeverage', component: FoodBeverageComponent},
   {path: 'lifestyle', component: LifestyleComponent},
   {path: 'weddings', component: WeddingsComponent},
   {path: 'offers', component: OffersComponent},
